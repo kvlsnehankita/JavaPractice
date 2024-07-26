@@ -15,6 +15,7 @@ public class BasicMath {
 		System.out.println("suare of the given number:" + square);
 
 		System.out.println("square root of given number:" + Math.sqrt(num));
+		System.out.println("log value of given number:"+Math.log(num));
 
 		scanner.close();
 
