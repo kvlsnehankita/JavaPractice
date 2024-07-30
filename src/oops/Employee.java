@@ -91,8 +91,8 @@ public class Employee {
 		empObj.setEmpNum(100);
 		empObj.setEmpName("Sneha");
 		empObj.setGender("Female");
-		empObj.setEmailAddress("snehankita26@gmail.com");
-		empObj.setMobileNumber(new BigInteger("9611005039"));
+		empObj.setEmailAddress("knklknnl@gmail.com");
+		empObj.setMobileNumber(new BigInteger("8789909000"));
 		empObj.setAddress("bengaluru");
 		
 		System.out.println("Employee Number:"+empObj.getEmpNum());
